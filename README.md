@@ -1,4 +1,2 @@
 # rtsp_simple_server
-RTSP Simple Server Addon for Home Assistant. Please use repository below to raise the issues.
-
-https://github.com/fuatakgun/eufy_security
+RTSP Simple Server Addon for Home Assistant. Forked and updated to work with new rtsp simple server repo that was renamed.
